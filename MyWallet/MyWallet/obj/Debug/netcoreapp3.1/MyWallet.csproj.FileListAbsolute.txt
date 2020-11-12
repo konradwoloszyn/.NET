@@ -1,0 +1,13 @@
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\bin\Debug\netcoreapp3.1\MyWallet.exe
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\bin\Debug\netcoreapp3.1\MyWallet.deps.json
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\bin\Debug\netcoreapp3.1\MyWallet.runtimeconfig.json
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\bin\Debug\netcoreapp3.1\MyWallet.runtimeconfig.dev.json
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\bin\Debug\netcoreapp3.1\MyWallet.dll
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\bin\Debug\netcoreapp3.1\MyWallet.pdb
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\obj\Debug\netcoreapp3.1\MyWallet.csprojAssemblyReference.cache
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\obj\Debug\netcoreapp3.1\MyWallet.AssemblyInfoInputs.cache
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\obj\Debug\netcoreapp3.1\MyWallet.AssemblyInfo.cs
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\obj\Debug\netcoreapp3.1\MyWallet.csproj.CoreCompileInputs.cache
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\obj\Debug\netcoreapp3.1\MyWallet.dll
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\obj\Debug\netcoreapp3.1\MyWallet.pdb
+D:\!Szkoła.Neta\MyWallet\MyWallet\MyWallet\obj\Debug\netcoreapp3.1\MyWallet.genruntimeconfig.cache
